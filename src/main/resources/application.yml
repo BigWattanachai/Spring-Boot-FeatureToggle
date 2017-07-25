@@ -1,0 +1,3 @@
+featureToggle:
+   properties:
+       hello.feature: true
